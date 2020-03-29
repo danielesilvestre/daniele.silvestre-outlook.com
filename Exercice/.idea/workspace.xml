@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1986a199-4d68-484e-a2cb-602bbc87a0cd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Z1QLNq50WwgfaqOmiIHq3jag1V" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1986a199-4d68-484e-a2cb-602bbc87a0cd" name="Default Changelist" comment="" />
+      <created>1584004063267</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584004063267</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="551" y="288" width="302" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1584004540220">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state x="551" y="288" width="302" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/49.27.1317.741@49.27.1317.741" timestamp="1584004540220" />
+    <state x="485" y="155" width="424" height="484" key="FileChooserDialogImpl" timestamp="1584004685820">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state x="485" y="155" width="424" height="484" key="FileChooserDialogImpl/49.27.1317.741@49.27.1317.741" timestamp="1584004685820" />
+    <state x="49" y="27" width="1307" height="741" key="new project wizard" timestamp="1584004707903">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state x="49" y="27" width="1307" height="741" key="new project wizard/49.27.1317.741@49.27.1317.741" timestamp="1584004707903" />
+  </component>
+</project>

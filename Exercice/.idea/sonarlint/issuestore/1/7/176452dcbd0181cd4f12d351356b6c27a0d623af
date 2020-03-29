@@ -1,0 +1,9 @@
+
+P
+java:S1128"3Remove this unused import 'java.text.NumberFormat'.(¿¸»8ãÁ€ğŒ.
+]
+java:S1854	";Remove this useless assignment to local variable "scanner".(ù ƒ‘üÿÿÿÿ8½ŒğŒ.
+N
+java:S1481	",Remove this unused "scanner" local variable.(ù ƒ‘üÿÿÿÿ8½ŒğŒ.
+¡
+java:S1598"…This file "Main.java" should be located in "com/codewithmosh" directory, not in "/home/danieleps/Projects/JAVA/Exercice/Switch-case".(¶Ì­­øÿÿÿÿ
